@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "ももいろの鍵",
+  "base_artist": "いよわ",
+  "createdAt": "2025-12-24T05:13:00.539326Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ももいろの鍵 (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&巡音ルカ)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/01_ももいろの鍵_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&巡音ルカ)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ももいろの鍵",
+      "artist": "MORE MORE JUMP! feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&巡音ルカ",
+      "has_synced": true,
+      "path": "select/02_ももいろの鍵_MORE_MORE_JUMP!_feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&巡音ルカ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ももいろの鍵",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/03_ももいろの鍵_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ももいろの鍵 - The peachy key (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&巡音ルカ)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/04_ももいろの鍵_-_The_peachy_key_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&巡音ルカ)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ももいろの鍵 (feat. 花里みのり & 桐谷遥 & 桃井愛莉 & 日野森雫 & 巡音ルカ)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/05_ももいろの鍵_(feat._花里みのり_&_桐谷遥_&_桃井愛莉_&_日野森雫_&_巡音ルカ)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ももいろの鍵 (instrumental)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/06_ももいろの鍵_(instrumental)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ももいろの鍵",
+      "artist": "いよわ",
+      "has_synced": false,
+      "path": "select/pl_01_ももいろの鍵_いよわ.txt"
+    }
+  ]
+}
